@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Samuil Orlioglu
+
+#### Who am I?
+I am a software developer, currently working towards a M.S. in Computer Science at Clemson University. I have application development experience with Java, Spring Boot, .NET, C#, Python and C++. My interests include desktop application development, web development, low-level security and 3D graphics.
+
+
 
 <!--
 **DrSmCraft/DrSmCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
