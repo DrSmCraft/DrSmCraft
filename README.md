@@ -1,19 +1,19 @@
 ## Hi there 👋
 ### I'm Samuil Orlioglu
 [![GitHub followers](https://img.shields.io/github/followers/DrSmCraft?label=Follow&style=social)](https://github.com/DrSmCraft/?tab=follow)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1fb4c9)](https://drsmcraft.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1fb4c9)](https://samuil-orlioglu.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://github.com/DrSmCraft/?tab=follow)
 
 
 #### Who am I?
 I am a dynamic and ambitious software developer, driven by a passion for innovation and problem-solving. Given my experience in Java, Python, and Microsoft Azure, I excel in research and software development, consistently delivering innovative solutions.
 
-Currently, I am developing system-independant clinical decision support systems at Clemson University.
+Currently, I am developing system-agnostic clinical decision support systems at Clemson University.
 
 
 ### Skills
 <!--
-I am a software developer, currently working towards a M.S. in Computer Science at Clemson University. I have application development experience with Java, Spring Boot, .NET, C#, Python and C++. My interests include desktop application development, web development, low-level security and 3D graphics.
+I am a software developer, based in Upstate South Carolina. I have application development experience with Java, Spring Boot, .NET, C#, Python and C++. My interests include desktop application development, web development, low-level security and 3D graphics.
 -->
 
 [![Java](https://img.shields.io/badge/Java-F89917?style=for-the-badge&logo=java&logoColor=white)](#)
