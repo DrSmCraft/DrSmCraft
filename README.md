@@ -8,8 +8,9 @@
 #### Who am I?
 I am a dynamic and ambitious software developer, driven by a passion for innovation and problem-solving. Given my experience in Java, Python, and Microsoft Azure, I excel in research and software development, consistently delivering innovative solutions.
 
+<!--
 Currently, I am maintaining the [NAPDI Database](https://repo.napdi.org/) for  Department of Biomedical Informatics at Pittsburg University and developing [system-agnostic clinical decision support systems](https://cdss4pcp.com/#/project/CDSS%2520Modules%2520for%2520OpenMRS%2520and%2520OpenEMR) at Clemson University.
-
+-->
 
 ### Skills
 <!--
